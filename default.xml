@@ -81,7 +81,7 @@
   <project name="platform_system_keymaster" path="system/keymaster" remote="rro" />
   <project name="platform_system_security" path="system/security" remote="rro" />
   <project name="platform_system_vold" path="system/vold" groups="pdk" remote="rro" />
-  <project name="platform_vendor_aosp" path="vendor/aosp" remote="rro" />
+  <project name="platform_vendor_aosp" path="vendor/aosp" remote="rro-oms" />
   <project name="manifest" path="manifest" remote="rro-oms" />
   
 <!-- CyanogenMod -->
