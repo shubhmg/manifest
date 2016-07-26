@@ -15,7 +15,7 @@
            fetch="https://github.com/AOSP-RRO"
 	   revision="marshmallow" />
 
-  <remote  name="rro"
+  <remote  name="rro-oms"
            fetch="https://github.com/AOSP-RRO"
            revision="oms" />
 
